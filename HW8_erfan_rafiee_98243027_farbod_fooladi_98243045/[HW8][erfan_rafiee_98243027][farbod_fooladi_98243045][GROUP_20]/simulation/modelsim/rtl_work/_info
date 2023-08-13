@@ -1,0 +1,131 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/intelFPGA_lite/uart_parallel/simulation/modelsim
+Eclk_divider
+Z1 w1640800074
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8E:/intelFPGA_lite/uart_parallel/clk_divider.vhd
+Z6 FE:/intelFPGA_lite/uart_parallel/clk_divider.vhd
+l0
+L5
+VZA7`G8`ZZ<_HDGHid0[6B1
+!s100 k[e>3aAKddW<^ZSMOjhLJ3
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1640800438
+!i10b 1
+Z9 !s108 1640800438.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|E:/intelFPGA_lite/uart_parallel/clk_divider.vhd|
+Z11 !s107 E:/intelFPGA_lite/uart_parallel/clk_divider.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abhv
+R2
+R3
+R4
+DEx4 work 11 clk_divider 0 22 ZA7`G8`ZZ<_HDGHid0[6B1
+l18
+L12
+VYMJ`QEK;BZjG8iU@PPmeH1
+!s100 9G4ICCZEzk5O8@KW3QBkd1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Euart_2_parallel
+Z14 w1640800012
+R3
+R4
+R0
+Z15 8E:/intelFPGA_lite/uart_parallel/uart_2_parallel.vhd
+Z16 FE:/intelFPGA_lite/uart_parallel/uart_2_parallel.vhd
+l0
+L6
+Vo5XL>74aHQ^D]i0GAB?<C3
+!s100 :88hlWH?TZ1XDe44EH^l>2
+R7
+31
+Z17 !s110 1640800437
+!i10b 1
+Z18 !s108 1640800437.000000
+Z19 !s90 -reportprogress|300|-93|-work|work|E:/intelFPGA_lite/uart_parallel/uart_2_parallel.vhd|
+Z20 !s107 E:/intelFPGA_lite/uart_parallel/uart_2_parallel.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R3
+R4
+DEx4 work 15 uart_2_parallel 0 22 o5XL>74aHQ^D]i0GAB?<C3
+l25
+L17
+VM4^gZ[gJWE]bMdW6O73F^3
+!s100 IXD^jXIE21hO6K?ZHJDLT3
+R7
+31
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Euart_parallel
+Z21 w1640799949
+R2
+R3
+R4
+R0
+Z22 8E:/intelFPGA_lite/uart_parallel/UART_PARALLEL.vhd
+Z23 FE:/intelFPGA_lite/uart_parallel/UART_PARALLEL.vhd
+l0
+L7
+VzC8O6TSE6eD[8YXb`T7_l1
+!s100 Z<ijQizeGW?9ko2^18f3G2
+R7
+31
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-93|-work|work|E:/intelFPGA_lite/uart_parallel/UART_PARALLEL.vhd|
+Z25 !s107 E:/intelFPGA_lite/uart_parallel/UART_PARALLEL.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 13 uart_parallel 0 22 zC8O6TSE6eD[8YXb`T7_l1
+l43
+L21
+VGV`PTmG:W2HVlz]@ZaK>R0
+!s100 M^d75Z3Uo3=HKARJ32C>60
+R7
+31
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R12
+R13
